@@ -1,0 +1,7 @@
+{
+  "prompts": [
+    {
+      "content": "Given this messages, please summary the writer’s writing style of message in three adjective words or a phrase, and give the antonym of each style. Respond using the following JSON format (In your summary, use single quotation marks ' instead of double quotation marks . DON’T USE double quotation marks):\n {\n Style1: [Styles1],\n Antonym1: [Antonym1],\n Style2: [Styles2],\n Antonym2: [Antonym2],\n Style3: [Styles3],\n Antonym3: [Antonym3]\n}"
+    }
+  ]
+}
